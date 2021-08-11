@@ -1,2 +1,1 @@
-a = 'learning some basics'
-print(a[-3:-1])
+print(2/1)
